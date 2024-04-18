@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55849846098",
+    "project_id": "login-phone-e89c6",
+    "storage_bucket": "login-phone-e89c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55849846098:android:a146cecb16be7f9fa7668b",
+        "android_client_info": {
+          "package_name": "com.benki.loginphonefirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXvcnhL5BwW94XOhSa2DL87UNBqh8O0WY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
